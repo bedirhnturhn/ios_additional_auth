@@ -167,3 +167,5 @@ iOSInjectionProject/
 # End of https://www.toptal.com/developers/gitignore/api/firebase
 
 
+
+ios_additional_auth/GoogleService-Info.plist
